@@ -11,7 +11,7 @@ namespace PartyInvites.Controllers
     {
         // GET: Home
         /// <summary>
-        /// Just for testi
+        /// Just for testing 
         /// </summary>
         /// <returns></returns>
         public ActionResult Index()
