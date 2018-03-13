@@ -10,6 +10,10 @@ namespace PartyInvites.Controllers
     public class HomeController : Controller
     {
         // GET: Home
+        /// <summary>
+        /// Just for testing
+        /// </summary>
+        /// <returns></returns>
         public ActionResult Index()
         {
             int hour = DateTime.Now.Hour;
